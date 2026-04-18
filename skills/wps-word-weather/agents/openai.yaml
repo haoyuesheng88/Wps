@@ -1,0 +1,7 @@
+interface:
+  display_name: "WPS Word Weather"
+  short_description: "Insert live weather notes into an open WPS Word document"
+  default_prompt: "Use $wps-word-weather to look up live weather and type it into the active WPS Word document."
+
+policy:
+  allow_implicit_invocation: true
