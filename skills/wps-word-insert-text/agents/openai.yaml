@@ -1,0 +1,7 @@
+interface:
+  display_name: "WPS Word Insert Text"
+  short_description: "Insert prepared text into an open WPS Word document"
+  default_prompt: "Use $wps-word-insert-text to type prepared text into the active WPS Word document."
+
+policy:
+  allow_implicit_invocation: true
