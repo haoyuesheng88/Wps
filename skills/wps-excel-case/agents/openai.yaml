@@ -1,0 +1,7 @@
+interface:
+  display_name: "WPS Excel Case"
+  short_description: "Create formatted demo workbooks in WPS Spreadsheets"
+  default_prompt: "Use $wps-excel-case to open WPS Excel and create a formatted sample workbook."
+
+policy:
+  allow_implicit_invocation: true
